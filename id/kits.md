@@ -1,56 +1,56 @@
 # Kits
 
-Kits di Project Reality menunjukkan class anda, perlengkapan dan peran di tim anda. PR menyediakan banyak pilihan kits yang bisa anda ambil. Secara umum, ada 2 jenis di Project Reality:
+Kit di Project Reality menentukan class, perlengkapan, dan peranmu di tim. PR punya banyak pilihan kit yang bisa kamu ambil. Secara umum, ada 2 jenis kit di Project Reality:
 
-* **Kit Standar**, yakni peran standar infanteri dan bisa dipilih langsung dari layar spawn.
-* **Kit Specialist**, yakni peran yang lebih khusus dan hanya bisa didapatkan dari prosedur khusus. [Lihat Prosedur Permintaan Kit](kits.md#kit-request)
+* **Standard Kit**, yaitu peran standar di squad infanteri. Kit ini bisa dipilih langsung dari layar spawn.
+* **Specialist Kit**, yaitu peran yang lebih khusus. Kit ini hanya bisa didapat lewat [prosedur request kit](kits.md#kit-request).
 
 ## _Mulai dari mana_ {#where-to-start}
 
-Sebagai pemain baru, anda akan selalu bergabung squad infanteri dan mendapatkan kit Rifleman. Kit Rifleman mewakili sebagai prajurit infanteri dasar dan bisa digunakan tanpa batasan oleh orang-orang sebanyak mungkin di tiap squad/tim. Kit yang lainnya berkaitan dengan peran-peran khusus dan jumlahnya sangat terbatas yang bisa digunakan didalam sebuah squad/tim.
+Kalau kamu pemain baru, selalu gabung ke squad infanteri dan ambil kit **Rifleman**. Rifleman adalah prajurit infanteri dasar. Kit ini tidak dibatasi, jadi satu squad atau tim boleh punya Rifleman sebanyak apa pun. Kit lainnya punya peran yang lebih khusus, dan jumlah yang boleh dipakai dalam satu squad/tim sangat terbatas.
 
-Menimbang pembatasan tersebut, dan agar menghindari dampak negatif terhadap performa tim dengan menyalahgunakan kit terbatas, **anda sangat disarankan untuk selalu memulai dengan kit Rifleman**. Semakin anda berpengalaman dan mempelajari dasar-dasar bermain sebagai infanteri, jika anda merasa siap, anda bisa bisa meminta pemimpin squad anda untuk menunjuk anda ke peran yang lain. Akan tetapi, anda harus **SELALU** tanya pemimpin squad anda sebelum mengganti kit.
+Karena ada batasan itu, dan supaya tim tidak rugi gara-gara kit terbatas dipakai sembarangan, **sangat disarankan mulai dari kit Rifleman**. Kalau kamu sudah lebih berpengalaman, paham dasar-dasar main infanteri, dan merasa siap, kamu bisa minta Squad Leader untuk memberi peran lain. Apa pun situasinya, **SELALU tanya Squad Leader dulu sebelum ganti kit**.
 
-## _Standard Kits_ {#standard_kits}
+## _Standard Kit_ {#standard_kits}
 
-Kits Standar adalah 7 kit yang ditampilkan di layar spawn dan mereka mewakili peran-peran yang umumnya ada pada squad infanteri. Dalam tabel di bawah ini, anda bisa melihat gambaran dari 7 kit standar tersebut, berikut informasi tentang berapa banyak kit dengan tipe terkait bisa digunakan dalam satu squad dan juga berapa banyak orang dibutuhkan dalam satu squad untuk dapat spawn dengan kit tersebut.
+**Standard Kit** adalah 7 kit yang muncul di layar spawn. Ketujuhnya adalah peran yang biasanya ada di sebuah squad infanteri. Tabel di bawah menunjukkan 7 kit standar itu, beserta berapa banyak kit sejenis yang boleh ada dalam satu squad dan berapa anggota minimal yang dibutuhkan squad supaya kamu bisa spawn dengan kit tersebut.
 
-| Kit | Jumlah Batas Per Squad | Minimum Anggota Squad |
+| Kit | Batas per squad | Minimal anggota squad |
 | --- | --- | --- |
 | **Officer** | 1 | 2 |
 | **Medic** | 2 | 2 |
-| **Automatic Rifleman** | 1 | 3 |
-| **Breacher** | 1 | 3 |
+| **Automatic Rifleman** | 1 | 4 |
+| **Breacher** | 1 | 4 |
 | **Grenadier** | 1 | 6 |
 | **Light Anti-Tank** | 1 | 4 |
-| **Rifleman** | Unlimited | 1 |
+| **Rifleman** | Tanpa batas | 1 |
 
-Mengingat batasan tersebut, dapat dipahami bahwa pada umumnya squad dengan jumlah 8 anggota berkomposisi satu dari setiap kit tersebut tetapi dengan 2 jumlah medic.
+Dengan batasan itu, squad standar yang isinya 8 orang biasanya terdiri dari 1 kit untuk tiap peran di atas, kecuali Medic yang ada 2.
 
-Perlu diingat bahwa ada 2 tombol pada setiap kit yang ada di menu pilihan kit di layar spawn: "**_Standard_**" dan "**_Alternative_**". Ini dikarenakan ada 2 jenis varian di setiap kit. Tergantung pada faksi, hal ini biasanya mempengaruhi pilihan bidikan senjata kit tersebut (Scope, Reflex atau tanpa optic), namun pada kasus tertentu, variasi Standar dan Alternative menyediakan senjata yang berbeda.
+Perhatikan bahwa setiap kit di menu pilihan layar spawn punya dua tombol: **"Standard"** dan **"Alternative"**. Itu karena tiap kit punya dua varian. Tergantung faksinya, perbedaannya biasanya ada di **pilihan optic** \(scope, reflex, atau tanpa optic\). Tapi di beberapa kasus, terutama pasukan tidak resmi (non-konvensional), pilihannya bukan soal optic atau iron sight, melainkan senjata yang benar-benar berbeda.
 
-Perlu diingat juga bahwa, supaya permainannya adil, dengan ada nya pembatasan squad diatas, kit **_Grenadier_** dan kit **_Light Anti-Tank_** juga dibatasi jumlah maksimum dalam satu tim, tergantung pada jumlah pemain dalam satu tim:
+Perhatikan juga bahwa demi keseimbangan permainan, selain batas per squad di atas, kit **Grenadier** dan **Light Anti-Tank** juga dibatasi jumlah maksimalnya **per tim**, tergantung jumlah pemain:
 
 | Kit | 1-7 Pemain | 8-15 Pemain | 16-23 Pemain | 24-31 Pemain | 32- 50+ Pemain |
 | --- | --- | --- | --- | --- | --- |
 | **Light Anti-Tank** | 1 | 2 | 4 | 5 | 8 |
 | **Grenadier** | 1 | 2 | 4 | 5 | 8 |
 
-Berikut adalah penjelasan yang lebih detail tentang setiap kit:
+Berikut penjelasan lebih rinci untuk tiap kit:
 
-* ![](../assets/rifleman.png)**Rifleman.** Kit tak terbatas, mewakili prajurit infanteri standar. Biasanya, dilengkapi dengan Assault Rifle, frag dan smoke grenade. Tanpa peran khusus, seorang rifleman ideal untuk posisi dan manuver agresif. Ia juga class yang dilengkapi ammo bag, yang mampu mensuplai perlengkapan anggota tim.
-* ![](../assets/officer.png)**Officer.** Dibatasi 1 per squad hanya tersedia untuk pemimpin squad. Dengan tambahan dari perlengkapan tempur standar, kit ini dilengkapi senjata cadangan, radio officer, dan teropong. Ia dapat berkomunikasi langsung dengan pemimpin squad lainnya, menandai marker di peta, membangun _deployable emplacement_, juga meminta bantuan (artileri, serangan mortir, armor atau bantuan udara, dll). Anda dapat mencari informasi lebih detail tentang peran penting ini di bagian [**Pemimpin Sequad**](../the_squad_leader.md#the_squad_leader) pada manual ini.
-* ![](../assets/medic.png)**Medic.** Terbatas 2 anggota per squad. Ia bertanggung jawab menyediakan bantuan medis di medan perang, dan maka dari itu, ia adalah peran yang sangat berpengaruh pada performa squad. Kewaspadaan dan insting bertahan hidup sangat penting di peran ini. Dengan perlengkapan tambahan selain Assault Rifle, ia dilengkapi dengan beberapa smoke grenade, P3K, Epipen dan Field Dressing. Ini satu-satunya kit yang mampu menyeret rekan yang terluka.
-* ![](../assets/ar.png)**Automatic Rifleman (AR).** Terbatas 1 per squad. Dilengkapi dengan Light Machine Gun, seorang Automatic Rifleman (AR), tipe rifleman dengan mobilitas yang kurang (tidak dilengkapi frag grenade) dengan keunggulan daya tembak yang sangat tinggi. Kelebihannya yaitu tembakan tekanan yang akurat dan mematikan guna sangat efektif membatasi pergerakan lawan.
-* ![](../assets/breacher.png)**Breacher**. Dibatasi 1 per squad. Ia seorang spesialis peledak yang juga berperan sebagai orang terdepan dalam peledakan bangunan. Dilengkapi dengan Assault Rifle, tali panjat guna memanjat rintangan, shotgun dan beberapa peledak C4 untuk peledakan taktis.
-* ![](../assets/at.png)**Light Anti-Tank (LAT).** Terbatas 1 per squad dan **8 per tim**. LAT yaitu Rifleman yang dilengkapi dengan Assault Rifle dan sistem senjata anti-tank ringan. Peran utamanya yaitu berperan sebagai elemen anti-tank ringan, dengan kapasitas melawan dan menetralisir kendaraan ringan juga kendaraan lapis baja ringan. Namun TIDAK efektif melawan kendaraan lapis baja berat maupun tank.
-* ![](../assets/grenadier.png)**Grenadier.** Terbatas 1 per squad dan **8 per tim**. Dilengkapi dengan underbarrel grenade launcher dipasang di Assault Rifle. Peran utama nya menyerang area pandangan rendah/tertutup dimana ada kemungkinan keberadaan lawan dan juga untuk merusak kendaraan ringan.
+* ![](../assets/kit_icons/kit_light_scope_outline.png)**Rifleman**. Kit tanpa batas yang mewakili prajurit infanteri standar. Biasanya dilengkapi assault rifle, frag grenade, smoke grenade, dan sekop. Karena tidak punya peran khusus, Rifleman cocok untuk bermain lebih agresif di garis depan. Ini juga satu-satunya class yang membawa ammo bag, jadi dia bisa mengisi ulang amunisi rekan satu tim.
+* ![](../assets/kit_icons/kit_officer_outline.png)**Officer**. Maksimal 1 per squad dan hanya untuk Squad Leader. Selain perlengkapan tempur standar, kit ini membawa senjata cadangan, radio officer, dan binocular \(teropong\). Dia bisa ngobrol langsung lewat suara dengan Officer lain di timnya, memasang marker di peta, membangun emplacement dan fortifikasi \(bangunan pertahanan\), serta meminta dukungan \(artileri atau mortir, bantuan armor atau pesawat, dan lainnya\). Info lengkap tentang peran penting ini ada di bagian [**Squad Leader**](the_squad_leader.md#the_squad_leader) manual ini.
+* ![](../assets/kit_icons/kit_medic_outline.png)**Medic**. Maksimal 2 per squad. Medic bertugas memberi pertolongan medis di medan perang, jadi perannya sangat menentukan performa squad. Peran ini butuh kewaspadaan dan insting bertahan hidup yang kuat. Selain assault rifle, dia membawa beberapa smoke grenade, first-aid kit, epipen (suntikan darurat), dan field dressing \(perban lapangan\). Ini satu-satunya kit yang bisa menyeret rekan yang terluka.
+* ![](../assets/kit_icons/kit_heavy_assault_outline.png)**Automatic Rifleman \(AR\)**. Maksimal 1 per squad. Dengan senjata light machine gun, AR kurang lincah dan kurang serbaguna dibanding Rifleman \(dia tidak membawa frag grenade\), tapi daya tembaknya jauh lebih besar. Keahliannya adalah suppressive fire \(tembakan penekan\) yang akurat dan mematikan. Tembakan ini juga sangat efektif untuk menahan gerak musuh.
+* ![](../assets/kit_icons/kit_mountaineer_outline.png)**Breacher** (pembobol). Maksimal 1 per squad. Dia spesialis bahan peledak (pembobol tembok dan pintu) yang jadi orang paling depan saat squad menerobos masuk bangunan. Perlengkapannya: assault rifle, grappling hook untuk memanjat rintangan, shotgun, dan beberapa C4 untuk peledakan taktis.
+* ![](../assets/kit_icons/kit_at_outline.png)**Light Anti-Tank \(LAT\)**. Maksimal 1 per squad dan **8 per tim**. LAT adalah Rifleman yang membawa assault rifle plus senjata anti-tank ringan yang dipanggul. Tugas utamanya jadi penangkal tank versi ringan, yaitu menghentikan dan menghancurkan kendaraan ringan dan kendaraan dengan armor tipis. **Tapi kit ini TIDAK efektif melawan Heavy Armored Vehicle atau Tank.**
+* ![](../assets/kit_icons/kit_grenadier_outline.png)**Grenadier**. Maksimal 1 per squad dan **8 per tim**. Biasanya dibekali underbarrel grenade launcher (pelontar granat di bawah laras) yang terpasang di assault rifle-nya. Tugas utamanya menembaki area yang susah dilihat tapi kemungkinan ada musuhnya, dan mengganggu kendaraan ringan. Kit ini sangat berguna untuk pertempuran jarak jauh dan untuk melawan musuh yang bersembunyi di dalam bangunan.
 
-## _Kit Spesalis_ {#specialist_kits}
+## _Specialist Kit_ {#specialist_kits}
 
-Penambahan pada Kit Standar di atas, PR menyediakan banyak pilihan Kit Khusus guna tugas-tugas khusus. Sebagian dari kit tersebut yakni _Heavy Anti-Tank, Combat Engineer, Marksman, Sniper,_ dan _Anti-Air Rifleman,_ diantara yang lainnya.
+Selain Standard Kit di atas, PR punya banyak **Specialist Kit** untuk tugas yang sangat spesifik. Contohnya Heavy Anti-Tank, Combat Engineer, Marksman, Sniper, Anti-Air Rifleman, dan masih banyak lagi.
 
-Anda tidak dapat spawn dengan kit yang sangat terbatas tersebut, yakni kit khusus. Untuk mendapatkan kit khusus, pemain harus request kit khusus dari Supply Crate atau kendaraan dengan prosedur [dibawah ini](kits.md#kit-request). Maka dari itu, tergantung jumlah pemain yang ada di tim, **setiap kit khusus terbatas menurut jumlah pemain per tim**. Pembatasan tersebut dirincikan pada tabel dibawah ini:
+Kamu tidak bisa langsung spawn dengan kit yang sangat terbatas dan khusus ini. Untuk mendapatkannya, pemain harus request dari supply crate atau kendaraan sekutu lewat prosedur yang dijelaskan [di bawah](kits.md#kit-request). Selain itu, tergantung jumlah pemain di tim, **tiap kit ini dibatasi jumlahnya per tim**. Batasannya ada di tabel berikut:
 
 | Kit | 1-7 Pemain | 8-15 Pemain | 16-23 Pemain | 24-31 Pemain | 32- 50+ Pemain |
 | --- | --- | --- | --- | --- | --- |
@@ -63,91 +63,126 @@ Anda tidak dapat spawn dengan kit yang sangat terbatas tersebut, yakni kit khusu
 | **Sniper** | 0 | 1 | 1 | 2 | 2 |
 | **Heavy Anti-Tank** | 0 | 1 | 1 | 1 | 1 |
 
-Sehubungan pembatasan kits tersebut, **sangat disarankan** para pemain baru yang belum berpengalaman **TIDAK** menggunakan kit-kit tersebut. Jika digunakan, sangat beresiko membuang-buang aset penting tim, dan merugikan tim. Jangan lupa untuk **SELALU** bertanya sebelum mengambil kit-kit tersebut.
+Selain itu, squad kamu juga harus punya anggota minimal sekian orang sebelum kamu boleh request kit ini:
 
-Berikut adalah penjelasan yang lebih detail terkait kit-kit khusus:
-
-* ![](../assets/mlg.png)**Machine Gunner (MG).** Versi yang lebih berat dari Automatic Rifleman (AR), dengan daya tembak lebih tinggi. Machine Gunner adalah prajurit mematikan yang mampu membasmi sejumlah anggota squad dan juga tak tertandingi dalam perlawanan jarak jauh.
-* ![](../assets/marskman.png)**Marksman**. Seorang Marksman unggul dalam membantu Squad dengan tembakan yang lambat namun sangat akurat. Ia penembak yang ahli dalam perlawanan jarak jauh melebihi jarak tembak Rifleman.
-* ![](../assets/ap.png)**Anti-Personnel Rifleman (AP).** AP Rifleman dilengkapi dengan ranjau Anti-Personel yang menggunakan peledak remote. Ia sangat berguna dalam mempersiapkan penyergapan atau dengan menggunakan peledak untuk mempertahankan objektif taktis.
-* ![](../assets/sniper.png)**Sniper.** Seorang Sniper unggul dalam misi pengintaian dan memberikan tim intel terkait pergerakan dan posisi lawan. Dilengkapi dengan senapan presisi yang jitu, ia juga mampu melawan musuh dengan jarak jauh. Dikarenakan dibatasi 2 per tim, di PR, mengambil kit Sniper demi kepuasan sendiri sangatlah tidak disukai.
-* ![](../assets/spotter.png)**Spotter**. Dilengkapi dengan tali panjat dan teropong, Spotter dapat memposisikan dirinya di titik pengintaian untuk mengumpulkan intel-intel penting di medan perang. Ia juga dapat menggunakan penunjuk laser untuk menandai sasaran bantuan udara. Peran nya biasanya berkaitan dalam membantu Tank dan CAS termasuk Sniper.
-* ![](../assets/combat_engineer.png)**Combat Engineer**. Pandai dalam peledakan dan demolitions. Dilengkapi ranjau anti kendaraan, ia ditujukan menyiapkan ladang ranjau atau menjinakkan ranjau lawan. Waspada bahwa ranjau bisa diaktifkan oleh kedua tim kawan dan lawan. Ia juga dilengkapi peledak dan dapat memperbaiki kendaraan-kendaraan ringan.
-* ![](../assets/aa.png)**Anti-Air Rifleman (AA)**. Dilengkapi dengan sistem senjata anti unit udara, membuatnya jadi seorang yang mampu melawan dan menghancurkan elemen udara. Batasannya 2 per tim, maka menjadi aset yang penting. Jangan membuang-buang kit ini!
-* ![](../assets/hay.png)**Heavy Anti-Tank (HAT)**. HAT lawan  yang efektif bagi kendaraan lapis baja dan dapat menghancurkan kendaraan secara ekstrim dari jarak jauh. Pembatasan ketat kit ini **(1 per tim)** menjadikan kit yang sangat kritis. Membuang-buang kit ini bisa merubah arah perang. Maka dari itu, para pemain yang tidak berpengalaman **disarankan** tidak menyentuh kit tersebut.
-
-## _Kit Lainnya_ {#other-kits}
-
-Tambahan pada kit-kit yang telah dijelaskan, ada beberapa kit khusus yang memiliki aturan-aturan khusus. Yakni kit Crewman, Pilot, Civilian dan semua kit Insurgent. Kit Civilian dan Insurgent hanya ada di mode Insurgency maka dijelaskan pada BAB terkait di manual ini. [Lihat Insurgency](game_modes.md#insurgency)
-
-Untuk kit Pilot (Kendaraan Udara) dan kit Crewman (Kendaraan Darat), keduanya dibutuhkan guna mengoperasikan kendaraan terkait. Dianggap sebagai Specialist Kit, tidak memungkinkan untuk mendapatkan kit tersebut pada saat spawn dan diharuskan **_request_** seperti biasanya [Lihat Prosedur Permintaan Kit](kits.md#kit-request). Namun, kedua kit tersebut tidak ada batasan dan dapat diambil semaunya, maka di anggap sebagai kit yang tak terbatas.
-
-* ![](../assets/pilot.png)**Pilot.** Kit pilot adalah satu-satunya kit bisa mengoperasikan helikopter dan pesawat. Memiliki satu senjata cadangan (pistol), sebuah parasut dan granat asap. Jangan coba-coba untuk mengoperasikan pesawat dan helikopter tanpa pengalaman khusus.
-* ![](../assets/crewman.png)**Crewman.** Kit _crewman_ adalah satu-satunya kit yang bisa mengoperasikan kendaraan lapis baja. Memiliki senjata ringan untuk jaga diri dan teropong untuk mempelajari medan perang. Umumnya, kedua supir dan _gunner_ dalam kendaraan memerlukan kit _crewman_.
-
-## _Prosedur Permintaan Kit_ {#kit-request}
-
-Setelah _spawn_, dan ketika beberapa kondisi tertentu terpenuhi, terdapat kemungkinan untuk meminta kit yang baru (baik kit standar ataupun spesial) dari _supply crate_ tim atau kendaraan lapis tempur. Biasanya, untuk meminta kit, harus ada 3 kondisi untuk dipenuhi:
-
-1. **Izin.** Anda memiliki izin dari pemimpin squad. Dia yang menentukan siapa dapat kit apa.
-2. **Lokasi.** Anda berada di tempat yang benar untuk meminta kit - di sebelah _supply crate_ tim atau kendaraan lapis tempur.
-3. **Jumlah.** Anda berada di squad yang memiliki jumlah minimal anggota yang diperlukan.
-
-Tindakan-tindakan berikut dapat membatasi sementara hak untuk meminta kit:
-
-| Kondisi | Penalti Waktu |
+| Kit | Minimal anggota squad |
 | --- | --- |
-| Antara anda spawn, atau melakukan permintaan lalu dikabulkan, kit yang terbatas | Tidak bisa meminta kit untuk 2 menit |
-| Pindah squad | Diblokir untuk +2 menit |
-| Membunuh rekan satu tim yang membawa kit yang terbatas | Diblokir untuk +3 menit |
-| Spam permintaan kit dalam waktu singkat | Diblokir untuk +30 detik |
-| Membunuh warga sipil (Civilian) melanggar Aturan Kontak Senjata atau ROE (mode Insurgency) | Diblokir untuk +10 menit |
+| **Machine Gunner** | 6 |
+| **Marksman** | 6 |
+| **Anti-Personnel Rifleman** | 4 |
+| **Spotter** | 2 |
+| **Combat Engineer** | 3 |
+| **Anti-Air Rifleman** | 3 |
+| **Sniper** | 3 |
+| **Heavy Anti-Tank** | 3 |
 
-Untuk meminta kit, harus melakukan sesuai urutan spesifik:
+Karena jumlahnya sangat terbatas, pemain baru dan yang belum berpengalaman **sangat disarankan TIDAK memakai kit ini**. Kalau dipakai sembarangan, kit penting milik tim bisa terbuang atau hilang, dan tim jadi dirugikan. **Ingat: SELALU tanya Squad Leader dulu sebelum mengambil kit apa pun dari daftar ini**.
 
-| Urutan Penting untuk Meminta Kit |
+Berikut penjelasan lebih rinci tiap Specialist Kit:
+
+* ![](../assets/kit_icons/kit_mg_outline.png)**Machine Gunner \(MG\)**. Versi AR yang lebih berat dan lebih repot dibawa, tapi dengan daya tembak lebih besar. MG adalah prajurit mematikan yang bisa menahan satu squad penuh agar tidak bisa bergerak, dan tidak ada tandingannya di pertempuran jarak jauh.
+* ![](../assets/kit_icons/kit_marksman_outline.png)**Marksman**. Marksman jago memberi squad-nya tembakan yang pelan tapi sangat akurat. Dia penembak andal untuk menyerang objektif atau musuh yang di luar jangkauan Rifleman.
+* ![](../assets/kit_icons/kit_claymore_outline.png)**Anti-Personnel Rifleman \(AP\)**. AP Rifleman membawa ranjau anti-personel yang kuat dengan detonator jarak jauh \(diledakkan manual\). Dia paling berguna untuk menyiapkan penyergapan atau menjaga objektif penting dengan peledaknya.
+* ![](../assets/kit_icons/kit_sniper_outline.png)**Sniper**. Sniper unggul untuk misi pengintaian dan memberi tim info soal gerakan dan posisi musuh. Dengan sniper rifle presisi tinggi, dia juga bisa menembak musuh dari jarak sangat jauh. Karena dibatasi 2 per tim, di PR mengambil kit Sniper untuk main solo ala game arcade sangat tidak disukai.
+* ![](../assets/kit_icons/kit_spotter_outline.png)**Spotter**. Dengan grappling hook dan binocular, Spotter bisa naik ke titik pandang yang tinggi untuk mengumpulkan info penting di medan perang. Dia juga bisa memakai laser designator untuk menandai target serangan udara. Biasanya dia mendukung unit Armor dan Close Air Support \(CAS, serangan udara dekat\), juga Sniper.
+* ![](../assets/kit_icons/kit_engineer_outline.png)**Combat Engineer**. Spesialis bahan peledak dan penghancuran bangunan. Dengan ranjau anti-kendaraan, dialah orang yang bertugas memasang ladang ranjau atau menjinakkannya. Hati-hati, ranjau bisa aktif kalau diinjak kawan maupun lawan! Dia juga membawa beberapa peledak untuk menghancurkan bangunan dan bisa memperbaiki kendaraan ringan.
+* ![](../assets/kit_icons/kit_aa_outline.png)**Anti-Air Rifleman \(AA\)**. Dia membawa senjata anti-udara yang dipanggul, jadi dialah yang bertugas menghalau dan menjatuhkan pesawat atau helikopter musuh. Karena dibatasi 2 per tim, kit ini sangat berharga. Jangan disia-siakan!
+* ![](../assets/kit_icons/kit_ataa_outline.png)**Heavy Anti-Tank \(HAT\)**. HAT adalah ancaman besar bagi kendaraan lapis baja dan bisa menghancurkan kendaraan dengan sangat mematikan, bahkan dari jarak jauh. Batas kit ini sangat ketat \(**1 per tim**\), jadi kit ini benar-benar krusial. Kalau hilang atau terbuang, jalannya pertempuran bisa berubah. Karena itu, pemain yang belum berpengalaman **sangat diminta** untuk tidak mengambilnya.
+
+
+## _Insurgency Kit_ {#insurgency-kits}
+
+Beberapa pasukan irregular dan/atau mode game Insurgency punya kit khusus untuk gaya perang tidak seimbang (asimetris). Kemampuan kit insurgent biasanya lebih sederhana daripada perlengkapan militer resmi. Sebagai gantinya, mereka dibekali campuran senjata api dan perlengkapan rakitan atau darurat untuk menutup kekurangan itu. Yang paling menarik adalah Iraqi Insurgency, karena daftar senjata infanterinya sangat berbeda dari semua faksi lain, jadi layak dilihat lebih dekat:
+
+**Kit Iraqi Insurgent di Layar Spawn**
+* ![](../assets/kit_icons/kit_officer_outline.png)**Cell Leader**. Versi Insurgent dari kit Officer.
+* ![](../assets/kit_icons/kit_carbine_assault_outline.png) 
+  ![](../assets/kit_icons/kit_battle_rifle_assault_outline.png) 
+  ![](../assets/kit_icons/kit_insurgent_assault_outline.png) 
+  ![](../assets/kit_icons/kit_rifle_outline.png)**Insurgent**. Versi Insurgent dari Rifleman. Tidak semuanya punya amunisi tambahan; sebagian membawa booby trap (jebakan) atau granat anti-tank. Senjatanya bervariasi, mulai dari shotgun, SMG, sampai assault rifle atau battle rifle.
+* ![](../assets/kit_icons/kit_specops_outline.png)**Sapper**. Satu lagi kit pendukung. Sapper adalah gabungan Combat Engineer dan Rifleman AP. Tugas utamanya memasang jebakan untuk menyergap infanteri dan kendaraan musuh, serta menutup suatu area agar tidak bisa dilewati. Akses senjata apinya terbatas dan dia harus menjauh dari pertempuran, karena dia tidak bisa menyamar jadi warga sipil dan boleh ditembak kapan saja. Berbeda dari Combat Engineer asli, Sapper tidak punya wrench (kunci inggris).
+* ![](../assets/kit_icons/kit_medic_outline.png)**Collaborator**. Kit unik ini punya unsur Medic dengan senjata pribadi ringan, tapi kamu juga bisa memilih loadout alternatif untuk masuk ke pertempuran tanpa senjata. Selain me-revive dan menyembuhkan rekan atau membantu dengan grappling hook, tugas utamanya adalah memberi tim info soal posisi musuh sambil berpura-pura jadi warga biasa yang tidak ikut konflik. Membunuh Collaborator di kondisi tertentu termasuk pelanggaran Rules of Engagement \(ROE, aturan kapan boleh menembak\), dan pembunuhnya serta timnya akan dihukum. Jadi pasukan koalisi harus menahan diri dan tidak asal tembak semua orang yang terlihat. Di sisi lain, Collaborator adalah sumber intel point yang berharga, karena dia hampir tidak bisa melawan saat mau ditangkap, dan biasanya berakhir jadi kejar-kejaran di antara rumah dan atap. Satu squad hanya boleh punya maksimal dua Collaborator.
+
+**Insurgent Pick Up Kit**
+
+Iraqi Insurgent umumnya tidak bisa mengambil senjata beratnya dari menu spawn. Mereka harus mengambilnya (pick up) atau request dari repair station kendaraan di main base, atau dari cache (gudang senjata tersembunyi) yang aktif. Cache Iraqi Insurgency menghasilkan beberapa machine gun yang tidak bisa diakses squad insurgent dengan cara lain. Di main base mereka, biasanya ada juga kit Marksman, Sniper, Engineer, dan RPG dalam jumlah terbatas yang bisa diambil.
+
+Kit terakhir yang khusus untuk pasukan insurgent adalah Civilian: saat kamu menjatuhkan kit, kamu otomatis memakai kit kosong tanpa senjata \(dummy\). Pada beberapa faksi irregular, memakainya selama 2 menit atau lebih memberimu status civilian. Mirip Collaborator di atas, kit Civilian berfungsi sebagai pengintai dan penghalang serangan militer, tapi tidak punya perlengkapan lain untuk membantu tim.
+
+Penjelasan lebih lengkap tentang Collaborator dan Civilian ada di bagian lain manual ini, [**di sini**](the_civilian.md#the_civilian).
+
+## _Vehicle Kit_ {#other-kits}
+
+Selain kit yang sudah dijelaskan, ada kit khusus untuk memakai kendaraan militer besar dan pesawat. Namanya **Crewman** \(kendaraan lapis baja\) dan **Pilot** \(kendaraan udara\). Tanpa kit ini, kamu tidak bisa memakai fitur penting kendaraan tersebut. Layar akan hitam saat kamu duduk di kursi driver, gunner, co-pilot, dan beberapa kursi lainnya.
+
+Kit ini tidak punya batasan sama sekali, baik soal jumlah anggota squad yang dibutuhkan untuk request maupun jumlah kit per squad. Sebagai kit khusus, pilihan senjatanya sangat terbatas. Hanya sedikit faksi yang memberi Crewman senapan, dan Pilot hanya dapat pistol. Karena termasuk Specialist Kit, kamu tidak bisa langsung spawn dengan kit ini dan harus request seperti biasa \(lihat [di bawah](kits.md#kit-request)\). Tapi jumlahnya di satu tim tidak dibatasi, jadi kit ini bisa dianggap tanpa batas.
+
+* ![](../assets/kit_icons/kit_pilot_outline.png)**Pilot**. Pilot adalah satu-satunya kit yang bisa menerbangkan helikopter dan pesawat sayap tetap. Perlengkapannya: pistol, parasut, dan signal smoke grenade. Jangan coba menerbangkan pesawat kalau belum berpengalaman.
+* ![](../assets/kit_icons/kit_crewman_outline.png)**Crewman**. Satu-satunya kit yang bisa mengoperasikan kendaraan lapis baja. Crewman membawa senjata kompak untuk membela diri dan binocular untuk mengamati medan perang. Biasanya, driver dan gunner di kendaraan lapis baja sama-sama butuh kit Crewman.
+
+## _Prosedur Request Kit_ {#kit-request}
+
+Setelah spawn, dan kalau syarat tertentu terpenuhi, kamu bisa request kit baru \(Standard maupun Specialist\) dari supply crate sekutu atau kendaraan lapis baja. Biasanya ada 3 syarat yang harus terpenuhi:
+
+* **Izin**. Kamu sudah dapat izin dari Squad Leader. Dia yang menentukan siapa dapat kit apa.
+* **Lokasi**. Kamu ada di tempat yang tepat: di dekat supply crate atau kendaraan lapis baja sekutu.
+* **Jumlah anggota**. Kamu ada di squad yang jumlah anggotanya sudah memenuhi minimal.
+
+Hal-hal berikut bisa membuatmu sementara tidak boleh request kit:
+
+| Kondisi | Lama diblokir |
+| --- | --- |
+| Kamu spawn dengan kit terbatas, atau request kit terbatas dan disetujui | Tidak bisa request kit selama 2 menit |
+| Kamu pindah squad | Diblokir +2 menit |
+| Kamu membunuh rekan tim \(teamkill\) yang membawa kit terbatas | Diblokir +3 menit |
+| Kamu spam request kit dalam waktu singkat | Diblokir +30 detik |
+| Kamu membunuh civilian sampai melanggar Rules of Engagement \(Insurgency\) | Diblokir +10 menit |
+
+Untuk request kit, ikuti urutan tombol berikut:
+
+| Urutan tombol untuk request kit |
 | --- |
-| 1. Tekan dan tahan tombol **Secondary Radio key /\(T/\)** \((akan memunculkan _Comm Rose_\), |
-| 2. Pilih opsi tengah dari Comm Rose \(**REQUEST / DROP KIT"**\) lalu **left-click**. Ini akan membuka menu list semua kit. |
-| 3. Arahkan mouse ke kit yang diinginkan dan **left-click** untuk versi standar ATAU **right-click** untuk yang alternatif |
-| 4. Jika seluruh kondisi terpenuhi, muncul sebuah text kuning bertuliskan **“Your kit has been ALLOCATED and is at your feet”**. untuk mengambil kit tersebut **Tekan tombol G** |
+| 1. Tekan dan tahan **tombol Secondary Radio \(T\)**. Ini memunculkan _Commo Rose_ \(menu radio berbentuk lingkaran\). |
+| 2. Pakai mouse, pilih opsi tengah di Commo Rose \(**REQUEST / DROP KIT**\) lalu **klik kiri**. Ini membuka daftar semua kit. |
+| 3. Arahkan mouse ke kit yang kamu mau. Elemen HUD yang disorot akan menampilkan pilihan STD dan ALT, untuk meminta loadout standar atau alternatif dari kit itu. **Klik kiri** di varian yang kamu pilih untuk request. |
+| 4. Kalau semua syarat terpenuhi, kit yang kamu minta otomatis terambil dan kit lamamu dibuang. |
 
-Jika permintaan Anda ditolak, akan muncul teks kuning sebagai penjelasannya:
+Kalau request ditolak, akan muncul pesan teks kuning yang menjelaskan alasannya:
 
-Ketika Anda meminta kit di lokasi yang salah:
+Kalau kamu request kit di tempat yang salah:
 
-* **“You need to be close to a friendly SUPPLY CRATE or APC to request this kit” (Anda harus berada di dekat _SUPPLY CRATE _atau APC untuk meminta kit ini),** ATAU
-* **“You need to be close to a friendly SUPPLY CRATE or VEHICLE to request this kit”. (Anda harus berada di dekat _SUPPLY CRATE_ atau KENDARAAN untuk meminta kit ini)**
+* **“You need to be close to a friendly SUPPLY CRATE or APC to request this kit”** \(kamu harus dekat supply crate atau APC \(kendaraan angkut lapis baja\) sekutu\), ATAU
+* **“You need to be close to a friendly SUPPLY CRATE or VEHICLE to request this kit”** \(kamu harus dekat supply crate atau kendaraan sekutu\)
 
-Jika squad anda gagal memenuhi permintaan squad:
+Kalau squad kamu tidak memenuhi syarat squad:
+* **“Unavailable due to squad limitations”** \(tidak tersedia karena batasan squad\)
 
-* **“Unavailable due to squad limitations” (Tidak tersedia karena keterbatasan squad)**
+Kalau semua kit yang diizinkan sudah terbagi habis di tim:
 
-Ketika semua kit yang diizinkan sudah diberikan pada tim:
+* **“All of these kits have been issued”** \(semua kit ini sudah dibagikan\)
 
-* **“All of these kits have been issued” (Semua kit sudah diberikan)**
+Kemungkinan alasan lain:
 
-Alasan-alasan lainnya:
-
-* **“Unavailable for your forces”(Tidak tersedia untuk pasukan Anda)**
-* **“You can’t get another limited kit so soon after your last”(Anda tidak bisa lagi mendapatkan kit terbatas terlalu cepat setelah permintaan terakhir)**
-* **“You are new to this squad, request again in a minute” (Anda baru masuk squad ini, silahkan tunggu satu menit)**
+* **“Unavailable for your forces”** \(tidak tersedia untuk pasukanmu\)
+* **“You can't get another limited kit so soon after your last”** \(kamu belum bisa ambil kit terbatas lagi, terlalu cepat setelah yang terakhir\)
+* **“You are new to this squad, request again in a minute”** \(kamu baru masuk squad ini, coba lagi satu menit lagi\)
 
 ## _Prosedur Drop Kit_ {#drop-kit}
 
-Dalam situasi tertentu, Anda ada kemungkinan untuk menjatuhkan kit. Kebanyakan ketika:
+Dalam situasi tertentu, kamu mungkin perlu menjatuhkan kit. Yang paling sering:
 
-* Anda sengaja atau tidak sengaja mengambil kit musuh (yang mana **akan membunuh anda setelah 30 detik** kecuali dijatuhkan),
-* Anda sebagai _medic_ yang terluka dan ingin memberikan kit ke orang lain supaya dia bisa _heal_ anda,
-* Anda ingin bertukar kit dengan seseorang yang lebih berpengalaman dan jago dari Anda,
-* Anda ingin menjadi warga sipil (Civilian) saat bermain di mode Insurgency.
+* Kamu sengaja atau tidak sengaja mengambil kit musuh \(yang **akan membunuhmu setelah 30 detik** kalau tidak dijatuhkan\),
+* Kamu Medic yang terluka dan ingin memberikan kitmu ke orang lain supaya dia bisa heal kamu,
+* Kamu mau tukar kit dengan orang yang lebih berpengalaman atau lebih jago,
+* Kamu mau jadi Civilian waktu main di mode Insurgency.
 
-Lakukan urutan-urutan berikut (kit warga sipil/_civilian_):
+Cukup ikuti urutan ini:
 
-| Urutan-Urutan Penting untuk Menjatuhkan Kit |
+| Urutan tombol untuk drop kit |
 | --- |
-| 1. **Tekan dan tahan tombol Secondary Radio key /\(T/\)** |
-| 2. Pilih opsi tengah _Comm Rose_ \(**REQUEST / DROP KIT"**\) lalu klik kanan. Nanti akan ada kit yang tidak terlihat di bawah. |
-| 3. untuk mengambil **tekan tombol \(G\)** |
+| 1. Tekan dan tahan **tombol Secondary Radio \(T\)**. |
+| 2. Pilih opsi tengah Commo Rose \(**REQUEST / DROP KIT**\) lalu **klik kanan**. Kit lamamu akan jatuh di bawahmu, dan kamu memakai Unarmed Kit yang tidak terlihat. |
 
-Perlu diketahui bahwa kit yang dijatuhkan akan hilang setelah 5-10 menit dan nantinya akan tersedia lagi untuk squad/tim.
+Kit yang tergeletak di tanah akan hilang setelah sekitar 5 menit kalau tidak ada yang mengambil. Saat kit terbatas \(per squad atau per tim\) hilang, kit itu bisa di-request lagi dari jatah kit squad atau tim.
+
+Kit yang dijatuhkan terlihat di tanah seperti tumpukan pakaian militer dengan beberapa perlengkapan. Tergantung faksi, isinya bisa bermotif kamuflase faksi itu, dan sebagainya. Pemain lain bisa mengambilnya \(tapi hanya rekan satu tim yang bisa memakainya dalam waktu lama\) dengan mendekati barangnya lalu menekan **\(G\)** untuk menukar dengan kit yang sedang dipakai. Selama kit yang kamu jatuhkan belum hilang, kamu selalu bisa mengambilnya kembali.
